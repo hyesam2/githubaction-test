@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/bdb0c53b-83f8-46c4-9a86-7fe9c1ac4575/resourceGroups/rg-github-actions-sundls/providers/Microsoft.Web/sites/webapp-sundls"
+}
